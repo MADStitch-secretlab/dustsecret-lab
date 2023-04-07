@@ -18,7 +18,11 @@
   <summary><h3>2022 해양공학 CAE 경진대회</h3></summary>
   <ul>
     <li>
-      <h3>2022 해양공학 CAE 경진대회 - 우수상 <a 
+      <h3>2022 해양공학 CAE 경진대회 - 우수상 
+          <h4> 한국해양공학회
+            <a href=" http://www.ksoe.or.kr/bbs/board.php?bo_table=notice&wr_id=801&page=2
+">
+
 
 
 <!--
