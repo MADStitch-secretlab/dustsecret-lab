@@ -23,9 +23,11 @@
     <li>
       <h3>2022 해양공학 CAE 경진대회 - 우수상 
         <h4> 장주기파 소파 효율 향상을 위한 친환경 부유식 방파제 설계
-          <h4> 한국해양공학회
-            <a href=" http://www.ksoe.or.kr/bbs/board.php?bo_table=notice&wr_id=801&page=2
-">
+          <h4> <a href="http://www.ksoe.or.kr/bbs/board.php?bo_table=notice&wr_id=801&page=2">한국해양공학회 ⇗</a><br>
+          
+          
+## Interesting
+**Machine Learning & Deep Learning**
 
 
 
