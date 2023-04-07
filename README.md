@@ -1,5 +1,5 @@
 ## DongHyuk Lim
-### dust_labatory
+### dust_secretlab
 
 <!--
 **dustsecret-lab/dustsecret-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
