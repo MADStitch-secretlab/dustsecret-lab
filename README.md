@@ -13,12 +13,16 @@
 ## Experience
 
 
+## Programming Languages
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white">  <img src="https://img.shields.io/badge/Python-FF9E0F?style=flat-square&logo=Java&logoColor=white">
+
 ## Award
 <details class="--AWARD--">
   <summary><h3>2022 해양공학 CAE 경진대회</h3></summary>
   <ul>
     <li>
       <h3>2022 해양공학 CAE 경진대회 - 우수상 
+        <h4> 장주기파 소파 효율 향상을 위한 친환경 부유식 방파제 설계
           <h4> 한국해양공학회
             <a href=" http://www.ksoe.or.kr/bbs/board.php?bo_table=notice&wr_id=801&page=2
 ">
